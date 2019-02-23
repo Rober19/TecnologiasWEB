@@ -1,6 +1,13 @@
-table,
-th,
-td {
-  border: 1px solid black;
+
+div.TablaBordeada table, div.TablaBordeada th, div.TablaBordeada td {
+  border: 1px solid black !important;
   text-align: center;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+p, legend {
+  background-color: rgb(226, 226, 226);
 }
