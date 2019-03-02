@@ -1,0 +1,8 @@
+#roundc {
+  border-color: red;
+  border: 3px solid red;
+  border-radius: 25px;
+  background: #10f3d1;
+  padding: 20px;
+  width: 500px;
+}

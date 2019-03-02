@@ -1,0 +1,33 @@
+
+.dotted {
+  border-style: dotted;
+  border-color: blue;
+}
+.dashed {
+  border-style: dashed;
+  border-color: red;
+}
+.solid {
+  border-style: solid;
+  border-color: yellow;
+}
+.double {
+  border-style: double;
+  border-color: green;
+}
+.groove {
+  border-style: groove;
+  border-color: rgb(218, 0, 218);
+}
+.ridge {
+  border-style: ridge;
+  border-color: goldenrod;
+}
+.inset {
+  border-style: inset;
+  border-color: rgb(35, 0, 163);
+}
+.outset {
+  border-style: outset;
+  border-color: rgb(138, 138, 138);
+}
